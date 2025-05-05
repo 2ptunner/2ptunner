@@ -1,7 +1,4 @@
-
-<p align="center">
 ![12641082_de06a2](https://github.com/user-attachments/assets/6535ca8a-082b-4fca-8e5b-182c40ee4c91)
-</p>
 
 <!--
 **2ptunner/2ptunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
